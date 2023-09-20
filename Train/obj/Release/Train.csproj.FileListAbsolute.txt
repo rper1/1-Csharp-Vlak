@@ -1,0 +1,15 @@
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\bin\Release\Train.exe.config
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\bin\Release\Train.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\bin\Release\Train.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\obj\Release\Train.csproj.AssemblyReference.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\obj\Release\Train.csproj.SuggestedBindingRedirects.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\obj\Release\Train.csproj.CoreCompileInputs.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\obj\Release\Train.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Train\Train\obj\Release\Train.pdb
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\bin\Release\Train.exe.config
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\bin\Release\Train.exe
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\bin\Release\Train.pdb
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\obj\Release\Train.csproj.AssemblyReference.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\obj\Release\Train.csproj.CoreCompileInputs.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\obj\Release\Train.exe
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\1-Csharp-Vlak-main\Train\obj\Release\Train.pdb
